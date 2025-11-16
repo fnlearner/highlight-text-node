@@ -5,3 +5,6 @@ Here we have simplest Lexical setup in rich text configuration (`@lexical/rich-t
 **Run it locally:** `pnpm i && pnpm run dev`
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/fnlearner/highlight-text-node?file=src/main.tsx)
+
+
+![alt text](image.png)
